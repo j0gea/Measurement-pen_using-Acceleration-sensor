@@ -21,6 +21,14 @@
 ![FEFW](https://github.com/j0gea/Measurement-pen_using-Acceleration-sensor/assets/137410154/177daeb8-cddf-454c-8600-081da713696e)
 
 
+코드 설명
+--
+![image](https://github.com/j0gea/Measurement-pen_using-Acceleration-sensor/assets/137410154/1b7e455b-e95c-4f34-bb7b-7d5ba6a38410)
+![image](https://github.com/j0gea/Measurement-pen_using-Acceleration-sensor/assets/137410154/e8dea31c-b789-4ae8-a439-85b8e0b7128b)
+![image](https://github.com/j0gea/Measurement-pen_using-Acceleration-sensor/assets/137410154/573bac8b-ffe7-43a2-9c45-b0653a924717)
+![image](https://github.com/j0gea/Measurement-pen_using-Acceleration-sensor/assets/137410154/1239c4ca-4ddd-44d3-a7b5-1cde51260dcd)
+
+
 문제점
 --
 
